@@ -2,9 +2,9 @@
 
 ## Colors
 
-- light blue: #37abc8
-- dark blue: #3fb3b2
-- gold: #aad400
+- light blue: #afdde9ff
+- dark blue: #17537bff
+- gold: #d4aa00ff
 
 # High resolution logo
 
